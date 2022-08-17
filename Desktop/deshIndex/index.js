@@ -1,3 +1,5 @@
+// Stock and crypto market Dashboard
+
 const express = require('express');
 var { engine } = require('express-handlebars');
 const app = express();
